@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satya Jaiswal</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://giphy.com/stickers/thebuzzingstudio-code-tbs-thebuzzing-zhYSVCirREeIZtONCI">
+<img align="right src="https://giphy.com/stickers/thebuzzingstudio-code-tbs-thebuzzing-zhYSVCirREeIZtONCI" alt="image loading..." width="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="satyajaiswal" /> </p>
 
