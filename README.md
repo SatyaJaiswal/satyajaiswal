@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://giphy.com/stickers/thebuzzingstudio-code-tbs-thebuzzing-zhYSVCirREeIZtONCI">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="satyajaiswal" /> </p>
 
-- 🔭 I’m currently working on **Criminal Investigation portal**
+- 🔭 I’m currently working on **Logique Code Compnay**
 
 - 🌱 I’m currently learning **Node js API integration and automation with python.**
 
